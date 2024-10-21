@@ -1,0 +1,16 @@
+{
+	"shearlib:shearable":				"Lze ostříhat a vyprodukuje {0} jednotek rouna",
+	"shearlib:insufficientgen":			"Příliš divoké pro ostříhání, musí být generace {0}",
+	"shearlib:hoursuntilshearable":			"Za {0} hodin bude kožich připraven k ostříhání",
+	"shearlib:daysuntilshearable":			"Za {0} dní bude kožich připraven k ostříhání",
+	"shearlib:daysmaxwool":				"Tomuto zvířeti trvá {0} dní, než zcela vyroste jeho kožich,",
+	"shearlib:hoursmaxwool":			"Tomuto zvířeti trvá {0} hodin, než zcela vyroste jeho kožich,",
+	"shearlib:animalmaxwool":			"které vyprodukuje maximálně {0} jednotek rouna",
+	"shearlib:woolgrowing":				"Kožich stále roste a je příliš krátký na ostříhání",
+	"shearlib:shearsbonus":				"Stříhání nůžkami namísto nože poskytuje bonus +{0} k ostříhání",
+
+	"shearlib:animaltoowildshearclient":		"Zvíře je příliš divoké a nenechá se ostříhat, musí být generace {0}, aby bylo možné jej ostříhat.",
+	"shearlib:animalinsufficientwoolclient":	"Zvíře ještě nevyrostlo dostatečně velký kožich, aby jej bylo možné ostříhat, potřebuje minimálně {0} jednotek rouna.",
+	"shearlib:dropnotfound":			"ShearLib: Nelze najít '{0}' k odhození během stříhání.",
+	"shearlib:dropsecondnotfound":			"ShearLib: Nelze najít '{0}' k odhození jako druhotný produkt během stříhání."
+}
