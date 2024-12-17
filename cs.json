@@ -1,0 +1,48 @@
+{
+    "block-bettercrate-wood*": "Lepší Bedna",
+    "blockdesc-bettercrate-wood*": "Pojme až 32 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-bettercrate-copper*": "Lepší Bedna (Měděná)",
+    "blockdesc-bettercrate-copper*": "Pojme až 64 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-bettercrate-bronze*": "Lepší Bedna (Bronzová)",
+    "blockdesc-bettercrate-bronze*": "Pojme až 128 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-bettercrate-iron*": "Lepší Bedna (Železná)",
+    "blockdesc-bettercrate-iron*": "Pojme až 256 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-bettercrate-steel*": "Lepší Bedna (Ocelová)",
+    "blockdesc-bettercrate-steel*": "Pojme až 512 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-bettercrate2sided-wood*": "Oboustranná Lepší Bedna",
+    "blockdesc-bettercrate2sided-wood*": "Pojme až 32 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-bettercrate2sided-copper*": "Oboustranná Lepší Bedna (Měděná)",
+    "blockdesc-bettercrate2sided-copper*": "Pojme až 64 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-bettercrate2sided-bronze*": "Oboustranná Lepší Bedna (Bronzová)",
+    "blockdesc-bettercrate2sided-bronze*": "Pojme až 128 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-bettercrate2sided-iron*": "Oboustranná Lepší Bedna (Železná)",
+    "blockdesc-bettercrate2sided-iron*": "Pojme až 256 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-bettercrate2sided-steel*": "Oboustranná Lepší Bedna (Ocelová)",
+    "blockdesc-bettercrate2sided-steel*": "Pojme až 512 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
+  
+    "block-handbooktext-*bettercrate-wood*": "<strong>Dá se vylepšit na</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Lepší Bedna (Měděná)</a> pomocí <a href='handbook://item-bettercrates:upgrade-copper'>Lepší Bedna Vylepšení (Měděné)</a>.\r\n\r\n<strong>Jak používat</strong> \r\n<strong>Levé tlačítko myši:</strong> Vzít jeden předmět.\r\n<strong>Skrčení + Levé tlačítko myši:</strong> Vzít stack.\r\n<strong>Pravé tlačítko myši:</strong> Vložit novou nebo odpovídající stack.\r\n<strong>Držet Pravé tlačítko myši:</strong> Vložit všechny odpovídající stacky z inventáře hráče.\r\n<strong>Běh + Pravé tlačítko myši + prázdná ruka:</strong> Zamknout/Odemknout typ předmětu.",
+    
+    "block-help-bettercrate-take": "Vzít",
+    "block-help-bettercrate-takestack": "Vzít stack",
+    "block-help-bettercrate-putstack": "Vložit stack",
+    "block-help-bettercrate-putmatchingstack": "Vložit odpovídající stack",
+    "block-help-bettercrate-lock": "Zamknout bednu pro typ předmětu",
+    "block-help-bettercrate-unlock": "Odemknout bednu pro typ předmětu",
+  
+    "item-upgrade-copper": "Lepší Bedna Vylepšení (Měděné)",
+    "itemdesc-upgrade-copper": "Vylepší Lepší Bednu na Lepší Bednu (Měděná).",
+    
+    "item-toohot": "Nelze vložit horké předměty.",
+    "item-perishable": "Nelze vložit kazící se předměty.",
+    "item-filledcontainer": "Nelze vložit naplněné kontejnery."
+  }
+  
