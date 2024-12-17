@@ -1,48 +1,59 @@
 {
-    "block-bettercrate-wood*": "Lepší Bedna",
-    "blockdesc-bettercrate-wood*": "Pojme až 32 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-bettercrate-copper*": "Lepší Bedna (Měděná)",
-    "blockdesc-bettercrate-copper*": "Pojme až 64 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-bettercrate-bronze*": "Lepší Bedna (Bronzová)",
-    "blockdesc-bettercrate-bronze*": "Pojme až 128 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-bettercrate-iron*": "Lepší Bedna (Železná)",
-    "blockdesc-bettercrate-iron*": "Pojme až 256 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-bettercrate-steel*": "Lepší Bedna (Ocelová)",
-    "blockdesc-bettercrate-steel*": "Pojme až 512 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-bettercrate2sided-wood*": "Oboustranná Lepší Bedna",
-    "blockdesc-bettercrate2sided-wood*": "Pojme až 32 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-bettercrate2sided-copper*": "Oboustranná Lepší Bedna (Měděná)",
-    "blockdesc-bettercrate2sided-copper*": "Pojme až 64 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-bettercrate2sided-bronze*": "Oboustranná Lepší Bedna (Bronzová)",
-    "blockdesc-bettercrate2sided-bronze*": "Pojme až 128 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-bettercrate2sided-iron*": "Oboustranná Lepší Bedna (Železná)",
-    "blockdesc-bettercrate2sided-iron*": "Pojme až 256 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-bettercrate2sided-steel*": "Oboustranná Lepší Bedna (Ocelová)",
-    "blockdesc-bettercrate2sided-steel*": "Pojme až 512 staků stejného typu předmětu.\r\nNelze vložit kazící se nebo horké předměty.",
-  
-    "block-handbooktext-*bettercrate-wood*": "<strong>Dá se vylepšit na</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Lepší Bedna (Měděná)</a> pomocí <a href='handbook://item-bettercrates:upgrade-copper'>Lepší Bedna Vylepšení (Měděné)</a>.\r\n\r\n<strong>Jak používat</strong> \r\n<strong>Levé tlačítko myši:</strong> Vzít jeden předmět.\r\n<strong>Skrčení + Levé tlačítko myši:</strong> Vzít stack.\r\n<strong>Pravé tlačítko myši:</strong> Vložit novou nebo odpovídající stack.\r\n<strong>Držet Pravé tlačítko myši:</strong> Vložit všechny odpovídající stacky z inventáře hráče.\r\n<strong>Běh + Pravé tlačítko myši + prázdná ruka:</strong> Zamknout/Odemknout typ předmětu.",
-    
-    "block-help-bettercrate-take": "Vzít",
-    "block-help-bettercrate-takestack": "Vzít stack",
-    "block-help-bettercrate-putstack": "Vložit stack",
-    "block-help-bettercrate-putmatchingstack": "Vložit odpovídající stack",
-    "block-help-bettercrate-lock": "Zamknout bednu pro typ předmětu",
-    "block-help-bettercrate-unlock": "Odemknout bednu pro typ předmětu",
-  
-    "item-upgrade-copper": "Lepší Bedna Vylepšení (Měděné)",
-    "itemdesc-upgrade-copper": "Vylepší Lepší Bednu na Lepší Bednu (Měděná).",
-    
-    "item-toohot": "Nelze vložit horké předměty.",
-    "item-perishable": "Nelze vložit kazící se předměty.",
-    "item-filledcontainer": "Nelze vložit naplněné kontejnery."
-  }
-  
+	"comment_description": "Český lokalizační soubor pro 'Simple HUD Clock'.",
+	"comment_version": "Verze módu: v3.4.0",
+	"comment_author": "Rhonen",
+	"comment_technical_details": "",
+
+	"hudclock:hudclock-caption-time": "Čas",
+	"hudclock:hudclock-caption-temp-degrees": "{0} °C",
+	"hudclock:hudclock-caption-temp-fahrenheit": "{0} °F",
+	"hudclock:hudclock-caption-season-winter": "Zima",
+	"hudclock:hudclock-caption-season-fall": "Podzim",
+	"hudclock:hudclock-caption-season-summer": "Léto",
+	"hudclock:hudclock-caption-season-spring": "Jaro",
+	"hudclock:hudclock-caption-online-players": "Hráčů online: {0}",
+	"hudclock:hudclock-keybind-time-title": "Rozšíření HUD clock",
+	"hudclock:hudclock-keybind-storm-title": "Rozšíření pro časovou bouři",
+	"hudclock:hudclock-caption-temp-storm-far-away": "Žádná bouře na obzoru",
+	"hudclock:hudclock-caption-temp-storm-deactivated": "Bouře deaktivována",
+	"hudclock:hudclock-caption-temp-storm-approaching": "Bouře přichází {0}",
+	"hudclock:hudclock-caption-temp-storm-active": "Bouře aktivní",
+	"hudclock:hudclock-open-mod-settings": "Nastavení módu",
+	"hudclock:hudclock-mod-settings-temp-fahrenheit": "Zobrazovat teplotu ve stupních Fahrenheita",
+	"hudclock:hudclock-mod-settings-playercount-mp": "Zobrazovat počet hráčů (online)",
+	"hudclock:hudclock-mod-settings-claimed-area": "Zobrazovat obsazené území",
+	"hudclock:hudclock-mod-settings-storm-dialog-shown": "Zobrazovat časovou bouři",
+	"hudclock:hudclock-mod-settings-storm-dialog-shown-always": "Vždy",
+	"hudclock:hudclock-mod-settings-storm-dialog-shown-trigger_only": "Při příchodu",
+	"hudclock:hudclock-mod-settings-storm-dialog-shown-never": "Nikdy",
+	"hudclock:hudclock-mod-caption-dialog-claimed-by": "Vlastní {0}",
+	"hudclock:hudclock-mod-settings-rift-activity-shown": "Aktivita trhlin",
+	"hudclock:hudclock-mod-settings-rift-activity-shown-never": "Nikdy",
+	"hudclock:hudclock-mod-settings-rift-activity-shown-world_config_dependend": "Když je aktivní ve světě",
+	"hudclock:hudclock-mod-settings-rift-activity-shown-always": "Vždy",
+	"hudclock:hudclock-mod-settings-wind-speed-shown": "Rychlost větru",
+	"hudclock:hudclock-mod-settings-wind-speed-shown-text": "Beaufortova stupnice",
+	"hudclock:hudclock-mod-settings-wind-speed-shown-percent": "Procenta",
+	"hudclock:hudclock-mod-settings-wind-speed-shown-never": "Nikdy",
+	"hudclock:hudclock-mod-settings-show-date": "Zobrazovat datum",
+	"hudclock:hudclock-mod-settings-show-time": "Zobrazovat čas",
+	"hudclock:hudclock-mod-settings-show-season": "Zobrazovat roční období",
+	"hudclock:hudclock-mod-settings-show-temperature": "Zobrazovat teplotu",
+	"hudclock:hudclock-mod-settings-show-room-indicator": "Zobrazovat indikátor místnosti",
+	"hudclock:dateonly": "{0}. {1}, Rok {2}",
+	"hudclock:timeonly": "{0}:{1}",
+	"hudclock:hudclock-caption-wind-0": "Bezvětří",
+	"hudclock:hudclock-caption-wind-1": "Lehký vánek",
+	"hudclock:hudclock-caption-wind-2": "Mírný vánek",
+	"hudclock:hudclock-caption-wind-3": "Slabý vánek",
+	"hudclock:hudclock-caption-wind-4": "Mírný vítr",
+	"hudclock:hudclock-caption-wind-5": "Čerstvý vítr",
+	"hudclock:hudclock-caption-wind-6": "Silný vítr",
+	"hudclock:hudclock-caption-wind-7": "Téměř vichřice",
+	"hudclock:hudclock-caption-wind-8": "Vichřice",
+	"hudclock:hudclock-caption-wind-9": "Silná vichřice",
+	"hudclock:hudclock-caption-wind-10": "Bouře",
+	"hudclock:hudclock-caption-wind-11": "Silná bouře",
+	"hudclock:hudclock-caption-wind-12": "Hurikán",
+	"hudclock:hudclock-caption-wind-prefix": "Vítr: {0}"
+}
