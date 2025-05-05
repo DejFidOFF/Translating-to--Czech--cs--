@@ -1,7 +1,7 @@
 {
   "game:tabname-primitive": "Primitive Survival",
   "game:ps-quickstart-title": "Primitive Survival: Rychlý průvodce",
-  "game:ps-quickstart-text": "<strong>Primitivní přežití: Rychlý průvodce</strong><br><i>Krok jedna: Přežít. Druhý krok: Prosperovat!</i><br><br>Aktualizované verze tohoto modu a další dokumentaci naleznete <a href=\"https://mods.vintagestory.at/primitivesurvival\">tady</a>.<br><br><strong>Český překlad by DejFidOFF </strong><a href=\"https://www.vintagestory.cz\">pro Tábor Survival</a><br><br><strong>Úvod</strong><br>Tento mod je zamýšlen jako realistická alternativa k činnostem, jako je lov nebo chov zvířat a tyto činnosti docela dobře doplní.<br><br>Abyste byli úspěšný v základním přežití, musíte využít celou řadu níže popsaných taktik a získali tak tolik vyhledávané vysoce kalorické bílkoviny (spolu s dalšími věcmi, které savci poskytují).<br><br><strong>Poloha, zábor, umístění</strong><br>Je důležité vybrat si vhodné místo, které budete nazývat domovem, ideálně blízko většího zdroje vody, který má spoustu <a href=\"handbook://block-tallplant-coopersreed-land-normal-free\">rákosí</a> okolo. Pokud je to možné, posbírejte nějaké jídlo, <a href=\"handbook://item-stick\">klacky</a> a tvrdé <a href=\"handbook://item-stone-granite\">kameny</a> ze země.<br><br><strong>Základní vybavení jako</strong><br>Klacky, kameny a jídlo stačí k tomu, aby vaše pastička fungovala. Pravděpodobně ale budete chtít další věci a nástroje s cílem přežít. Zvažte <a href=\"handbook://craftinginfo-knapping\">vyklepání</a> nože, abyste udělali pár <a href=\"handbook://block-primitivesurvival:stake-empty\">kolíků</a> (a uřežte stonky z rákosí.).  Použijte stonky k vytvoření nějakých <a href=\"handbook://item-primitivesurvival:cordage\">provazů</a>.<br><br><strong>Pasti</strong><br>Postav nějaké <a href=\"handbooksearch://Smrtící past\">pasti</a> a/nebo <a href=\"handbook://block-primitivesurvival:snare-set-north\">léčky</a> a nastavte je na různých místech v okolí. Tyto pasti jsou mnohem účinnější, když jsou nastraženy, což lze provést kliknutím na ně s nějakým druhem jídla ve vašem aktivním slotu. Pokud došlo k zaklopení pasti, propližte se pravým kliknutím, abyste ji znovu nastavili, a podle potřeby na ni znovu nastražte návnadu.<br><br>Sestavení pastí vyžaduje trochu více času a úsilí, ale jsou schopny chytit větší savce než léčka.<br><br>Savce můžete také chytit a zabíjet seříznutím pár klacků, abyste vytvořili <a href=\"handbook://item-primitivesurvival:woodspikebundle\">svazek dřevěných hrotů</a>, poté je zatlačte do měkké půdy (ideálně do jámy). Použijte stejné dřevěné hroty k vytvoření maskovacího krytu pro vaši past. Po dokončení se mouhou přiblížit savci z okolí a zkoumat (a doufejme, že spadnou do vaší pasti).  <br><br>Až si osvojíte tvarování a vypékání jílu, můžete si vyrobit formu na <a href=\"handbooksearch://Plát s hroty\">plát s hroty</a> který nadělá ještě větší škody než dřevěné hroty a dá se umístit na jakýkoli povrch.<br><br><strong>Rybaření</strong><br>Používejte klacky a lano ke stavbě <a href=\"handbook://block-primitivesurvival:fishbasket-north\">Rybářského koše</a> a umístěte je do vody, abyste mohli začít lovit. Více ryb přilákáte, když nastražíte svůj košík na ryby nějakou návnadou (stejně jako nastražení pastí).<br><br>Případně jednoduše použijte kůly a vytvořte <strong>past na jezu</strong>. Chcete-li to provést, použijte kůly k vytyčení oblasti ve vodě nebo na okrajích vody s otevřenou vodní hladinou uprostřed a poté klikněte pravým tlačítkem na vzdálenou stranu vytyčené oblasti (kůl). . Kolíky budou tvořit tvar M, což znamená, že jezová past je aktivní.<br><br>Větší štěstí při rybaření budete mít, pokud nastavíte <strong>návnadové laso</strong> nebo <strong>šňůru s více háčky</strong>(pomocí provazů a možná kůlů). Vyberte si jakýkoli vhodný blok (například strom, nebo blok zeminy umístěte kůl do země vedle vodního zdroje). Pro šňůru s háčky umístěte další vhodný blok přímo přes vodu od něj. Poté s provazem ve vašem aktivním slotu zaměřte jeden kůl/blok čelem k vodě a kliknutím připojte provaz.Musíte mít o 2 provazy víc než je počet bloků mezi kůly.<br><br>Potom potřebujete vyknapovat nějaké <a href=\"handbooksearch://Rybářský háček\">rybářské háčky</a>pověsit na vaše lano nebo vyřezat z <a href=\"handbook://item-primitivesurvival:fishinghook-bone\">kostí</a>. S háčky ve vašem aktivním inventáři klikněte na laso nad vodou a připevněte je. Nakonec zvažte nastražení návnady (stejně jako u pastí), aby byly efektivnější.<br><br>Návnadové lano nebo šňůra s háčky se mohou ukázat jako účinnější pro chytání ryb a nemají stejná prostorová omezení jako rybářský košík (nepotřebujete tedy mnoho vody). Jakmile zvládnete tvarování a vypalování jílu, můžete si vyrobit formy na kovové rybářské háčky a <a href=\"handbooksearch://Splávek\">splávky</a>.Připojte návnadu k háčku, abyste zlepšili své šance na chycení ryby. <br><br><strong>Spracování Ryb</strong><br><br>Vařte ryby na ohni, abyste získali tolik potřebné bílkoviny. Místo masa, můžete do polévek a dušených receptů přidat také ryby.  <a href=\"handbook://item-primitivesurvival:fishfillet-raw\">Rybí filet</a> vaše rybí porce pro snadnější vaření a skladování.  <br><br>Pokud budete hledat kolem sebe nebo se podíváte pod větve a kameny, možná se vám podaří najít nějaké (kliknutím při dřepu).  <a href=\"handbook://item-primitivesurvival:earthworm\">žížaly</a> a pak je použít na různé věci. Jezte je pro rychlou dodávku bílkovin, nastražte jimi své háčky nebo košíky na ryby, umístěte je na úrodnou půdu, abyste provzdušnili a pohnojili svou zahradu, nebo je umístěte do díry v úrodné půdě k vytvoření <a href=\"handbook://item-primitivesurvival:earthwormcastings\">žížalího trusu</a> ,který může být poté využit jako hnojivo. <br><br> Jestli získáš nějaké červené maso nebo maso z divokých zvířat, rozřízni je nožem na <a href=\"handbook://item-primitivesurvival:jerky-redmeat-raw\">syrové jerky</a> nebo <a href=\"handbook://item-primitivesurvival:jerky-bushmeat-raw\">syrové divoké jerky</a>.  Stále ale budete muset počkat, až se vysuší, než je budete moci jíst (nebo je můžete uvařit, pokud jste netrpěliví).<br><br><strong>Ostatní</strong><br><br>S <a href=\"handbooksearch://kožešina\">vyzrálou kůží</a> v ruce klikněte na zem, položte ji a oživte svůj skromný příbytek.<br><br>Pokud jste úspěšně umístili návnadové laso, víte dost na to, abyste se postavili <a href=\"handbook://item-primitivesurvival:monkeybridge\">opičí most</a> abyste se snadno dostali přes velké rokle nebo jezera. Jediný rozdíl je v tom, že dva koncové body musí být vyšší bloky (dva vysoké) nebo stromy.<br><br>Můžete také vyrobit kovovou rukojeť a společně s kovovými deskami si vyrobit <a href=\"handbooksearch://kovový kyblík\">kovový kyblík</a>.  Tento kyblík lze použít na mnoho stejných věcí jako dřevěné vědro, ale lze jej také použít k přesunu lávy.<br><br>Mořské mušle a další překvapení (<strong>nebudu všechny věci jmenovat </strong>) mohou občas najít cestu do vašich Rybářských košů a Jezových pastí.<br><br>",
+  "game:ps-quickstart-text": "<strong>Primitivní přežití: Rychlý průvodce</strong><br><i>Krok jedna: Přežít. Druhý krok: Prosperovat!</i><br><br>Aktualizované verze tohoto modu a další dokumentaci naleznete <a href=\"https://mods.vintagestory.at/primitivesurvival\">tady</a>.<br><br><strong>Český překlad by DejFidOFF </strong><a href=\"https://www.vintagestory.cz\">pro Tábor Survival</a><br><br><strong>Úvod</strong><br>Tento mod je zamýšlen jako realistická alternativa k činnostem, jako je lov nebo chov zvířat a tyto činnosti docela dobře doplní.<br><br>Abyste byli úspěšný v základním přežití, musíte využít celou řadu níže popsaných taktik a získali tak tolik vyhledávané vysoce kalorické bílkoviny (spolu s dalšími věcmi, které savci poskytují).<br><br><strong>Poloha, zábor, umístění</strong><br>Je důležité vybrat si vhodné místo, které budete nazývat domovem, ideálně blízko většího zdroje vody, který má spoustu <a href=\"handbook://block-tallplant-coopersreed-land-normal-free\">rákosí</a> okolo. Pokud je to možné, posbírejte nějaké jídlo, <a href=\"handbook://item-stick\">klacky</a> a tvrdé <a href=\"handbook://item-stone-granite\">kameny</a> ze země.<br><br><strong>Základní vybavení jako</strong><br>Klacky, kameny a jídlo stačí k tomu, aby vaše pastička fungovala. Pravděpodobně ale budete chtít další věci a nástroje s cílem přežít. Zvažte <a href=\"handbook://craftinginfo-knapping\">vyklepání</a> nože, abyste udělali pár <a href=\"handbook://block-primitivesurvival:stake-empty\">kolíků</a> (a uřežte stonky z rákosí.).  Použijte stonky k vytvoření nějakých <a href=\"handbook://item-primitivesurvival:cordage\">provazů</a>.<br><br><strong>Pasti</strong><br>Postav nějaké <a href=\"handbooksearch://Smrtící past\">pasti</a> a/nebo <a href=\"handbook://block-primitivesurvival:snare-set-north\">léčky</a> a nastavte je na různých místech v okolí. Tyto pasti jsou mnohem účinnější, když jsou nastraženy, což lze provést kliknutím na ně s nějakým druhem jídla ve vašem aktivním slotu. Pokud došlo k zaklopení pasti, propližte se pravým kliknutím, abyste ji znovu nastavili, a podle potřeby na ni znovu nastražte návnadu.<br><br>Sestavení pastí vyžaduje trochu více času a úsilí, ale jsou schopny chytit větší savce než léčka.<br><br>Savce můžete také chytit a zabíjet seříznutím pár klacků, abyste vytvořili <a href=\"handbook://item-primitivesurvival:woodspikebundle\">svazek dřevěných hrotů</a>, poté je zatlačte do měkké půdy (ideálně do jámy). Použijte stejné dřevěné hroty k vytvoření maskovacího krytu pro vaši past. Po dokončení se mouhou přiblížit savci z okolí a zkoumat (a doufejme, že spadnou do vaší pasti).  <br><br>Až si osvojíte tvarování a vypékání jílu, můžete si vyrobit formu na <a href=\"handbooksearch://Plát s hroty\">plát s hroty</a> který nadělá ještě větší škody než dřevěné hroty a dá se umístit na jakýkoli povrch.<br><br><strong>Rybaření</strong><br>Používejte klacky a lano ke stavbě <a href=\"handbook://block-primitivesurvival:fishbasket-north\">Rybářského koše</a> a umístěte je do vody, abyste mohli začít lovit. Více ryb přilákáte, když nastražíte svůj košík na ryby nějakou návnadou (stejně jako nastražení pastí).<br><br>Případně jednoduše použijte kůly a vytvořte <strong>past na jezu</strong>. Chcete-li to provést, použijte kůly k vytyčení oblasti ve vodě nebo na okrajích vody s otevřenou vodní hladinou uprostřed a poté klikněte pravým tlačítkem na vzdálenou stranu vytyčené oblasti (kůl). . Kolíky budou tvořit tvar M, což znamená, že jezová past je aktivní.<br><br>Větší štěstí při rybaření budete mít, pokud nastavíte <strong>návnadové laso</strong> nebo <strong>šňůru s více háčky</strong>(pomocí provazů a možná kůlů). Vyberte si jakýkoli vhodný blok (například strom, nebo blok zeminy umístěte kůl do země vedle vodního zdroje). Pro šňůru s háčky umístěte další vhodný blok přímo přes vodu od něj. Poté s provazem ve vašem aktivním slotu zaměřte jeden kůl/blok čelem k vodě a kliknutím připojte provaz.Musíte mít o 2 provazy víc než je počet bloků mezi kůly.<br><br>Potom potřebujete vyknapovat nějaké <a href=\"handbooksearch://Rybářský háček\">rybářské háčky</a>pověsit na vaše lano nebo vyřezat z <a href=\"handbook://item-primitivesurvival:fishinghook-bone\">kostí</a>. S háčky ve vašem aktivním inventáři klikněte na laso nad vodou a připevněte je. Nakonec zvažte nastražení návnady (stejně jako u pastí), aby byly efektivnější.<br><br>Návnadové lano nebo šňůra s háčky se mohou ukázat jako účinnější pro chytání ryb a nemají stejná prostorová omezení jako rybářský košík (nepotřebujete tedy mnoho vody). Jakmile zvládnete tvarování a vypalování jílu, můžete si vyrobit formy na kovové rybářské háčky a <a href=\"handbooksearch://Splávek\">splávky</a>.Připojte návnadu k háčku, abyste zlepšili své šance na chycení ryby. <br><br><strong>Spracování Ryb</strong><br><br>Vařte ryby na ohni, abyste získali tolik potřebné bílkoviny. Místo masa, můžete do polévek a dušených receptů přidat také ryby.  <a href=\"handbook://item-primitivesurvival:fishfillet-raw\">Rybí filet</a> vaše rybí porce pro snadnější vaření a skladování.  <br><br>Pokud budete hledat kolem sebe nebo se podíváte pod větve a kameny, možná se vám podaří najít nějaké (kliknutím při dřepu).  <a href=\"handbook://item-primitivesurvival:earthworm\">žížaly</a> a pak je použít na různé věci. Jezte je pro rychlou dodávku bílkovin, nastražte jimi své háčky nebo košíky na ryby, umístěte je na úrodnou půdu, abyste provzdušnili a pohnojili svou zahradu, nebo je umístěte do díry v úrodné půdě k vytvoření <a href=\"handbook://item-primitivesurvival:earthwormcastings\">žížalího trusu</a> ,který může být poté využit jako hnojivo. <br><br> Jestli získáš nějaké červené maso nebo maso z divokých zvířat, rozřízni je nožem na <a href=\"handbook://item-primitivesurvival:jerky-redmeat-raw\">syrové jerky</a> nebo <a href=\"handbook://item-primitivesurvival:jerky-bushmeat-raw\">syrové divoké jerky</a>.  Stále ale budete muset počkat, až se vysuší, než je budete moci jíst (nebo je můžete uvařit, pokud jste netrpěliví).<br><br><strong>Ostatní</strong><br><br>S <a href=\"handbooksearch://kožešina\">vyzrálou kůží</a> v ruce klikněte na zem, položte ji a oživte svůj skromný příbytek.<br><br>Pokud jste úspěšně umístili návnadové laso, víte dost na to, abyste se postavili <a href=\"handbook://item-primitivesurvival:monkeybridge\">opičí most</a> abyste se snadno dostali přes velké rokle nebo jezera. Jediný rozdíl je v tom, že dva koncové body musí být vyšší bloky (dva vysoké) nebo stromy.<br><br>Můžete také vyrobit kovovou rukojeť a společně s kovovými deskami si vyrobit <a href=\"handbooksearch://kovový kyblík\">kovový kyblík</a>.  Tento kyblík lze použít na mnoho stejných věcí jako dřevěné vědro, ale lze jej také použít k přesunu lávy.<br><br>Mořské mušle a další překvapení (<strong>nebudu všechny věci jmenovat </strong>) mohou občas najít cestu do vašich Rybářských košů a Jezových pastí.<br><br>There's a lot more to explore beyond what's mentioned above, most notably a unique raft variant, tree hollows, irrigation methods, a meat smoker, spear fishing, fireworks, fuses, explosives...and the list goes on. Click <a href=\"handbooksearch://primitive survival\">this link</a> to see a more comprehensive list.<br><br>",
   "item-cordage": "Provaz",
   "itemdesc-cordage": "Klíčová složka pro odchyt a rybolov.",
   "block-limbtrotlinelure-*": "Návnadové lano nebo šňůra s háčky",
@@ -12,8 +12,8 @@
 
   "block-stake-*": "Kolík",
   "blockdesc-stake-*": "Ostrý klacek, který lze bezpečně zatlačit do hlíny nebo štěrku. Užitečná věc pro chytání do pastí a rybaření. Také tvoří dobrý plot.",
-  "block-stakeinwater-*": "Kolík",
-  "blockdesc-stakeinwater-*": "Ostrý klacek, který lze bezpečně zatlačit do hlíny nebo štěrku. Užitečná věc pro chytání do pastí a rybaření. Také tvoří dobrý plot.",
+  //"block-stakeinwater-*": "Kolík",
+  //"blockdesc-stakeinwater-*": "Ostrý klacek, který lze bezpečně zatlačit do hlíny nebo štěrku. Užitečná věc pro chytání do pastí a rybaření. Také tvoří dobrý plot.",
 
   "block-snare-*": "Léčka",
   "block-deadfall-*-andesite*": "Andezitová smrtící past",
@@ -470,7 +470,7 @@
   "block-woodlantern-oak*": "Dřevěná lucerna (Dub)",
   "block-woodlantern-pine*": "Dřevěná lucerna (Borovice)",
 
-  "block-raft*": "Raft",
+  "block-raft*": "Raft (Primitive Survival)",
   "itemdesc-lavaportion": "Láva",
   "incontainer-block-lava-still-7": "Láva",
   "incontainer-item-lavaportion": "Láva",
@@ -812,16 +812,6 @@
 
   "block-firework-bamboobarrage": "Ohňostroj (Bambusová hráz)",
 
-  "block-support-wood-main-*": "Nosník pro potrubí  (Dřevěný)",
-  "block-support-bamboo-main-*": "Nosník pro potrubí  (Bambusový)",
-  "blockdesc-support-*": "Položte na zemědělskou půdu k uchycení zavlažovacích trubek",
-
-  "block-pipe-wood-plain": "Dřevěná trubka (Jednoduchá)",
-  "block-pipe-wood-aerated": "Dřevěná trubka (Provzdušněná)",
-  "block-pipe-bamboo-plain": "Trubka z rozštěpeného bambusu (Jednoduchá)",
-  "block-pipe-bamboo-aerated": "Trubka z rozštěpeného bambusu (Provzdušněná)",
-
-  "blockdesc-pipe-*": "Používáno k přepravě vody a k zavlažování zemědělské půdy.",
   "block-irrigationvessel-*": "Zavlažovací nádoba",
   "blockdesc-irrigationvessel-*": "Používejte místo vodních bloků pro lepší zavlažování zemědělské půdy.",
   "fill-irrigationvessel": "Naplňte vodou, aby zůstala vlhká všechna sousední zemědělská půda.",
@@ -1244,22 +1234,22 @@
   "WormFoundPercentRock-Comment": "Procentuální šance nalézt žížalu\r\nkdyž pravým tlačítkem zvedneš\r\nnormální kámen.",
   "WormFoundPercentStickFlint-Comment": "Procentuální šance nalézt žížalu\r\nkdyž pravým tlačítkem zvedneš klacek\r\nnebo pazourek.",
 
-  "MetalBucket-Config": "Metal Bucket Configuration",
-  "MetalBucketDisabled": "Metal Bucket Disabled",
-  "MetalBucketDisabled-Comment": "Disable the metal bucket.",
-
-  "Relics-Config": "Relic Configuration",
-  "RelicsDisabled": "Relics Disabled",
-  "RelicsDisabled-Comment": "Prevent catching relics in weir\r\ntraps and fish baskets.",
-
-  "block-rockblastingbomb": "Rock blasting bomb",
-  "blockdesc-rockblastingbomb": "This bomb is particularly effective for mining rock, but less so for ore blasting.",
-
-  "item-fishingspear-wood-*": "Fishing spear (Wood)",
-  "item-fishingspear-bamboo-*": "Fishing spear (Bamboo)",
-  "itemdesc-fishingspear-*": "Thrust like a regular spear to catch fish.",
-  "game:handhelp-spearfish": "Spear Fish",
-  "game:handhelp-removefish": "Remove Fish",
+  "MetalBucket-Config": "Konfigurace kovového kbelíku",
+  "MetalBucketDisabled": "Kovový kbelík zakázán",
+  "MetalBucketDisabled-Comment": "Zakázat kovový kbelík.",
+  
+  "Relics-Config": "Konfigurace relikvií",
+  "RelicsDisabled": "Relikvie zakázány",
+  "RelicsDisabled-Comment": "Zabránit chytání relikvií do pastí na jezy a rybích košů.",
+  
+  "block-rockblastingbomb": "Bomba na odstřelování kamenů",
+  "blockdesc-rockblastingbomb": "Tato bomba je obzvláště účinná pro těžbu kamenů, ale méně pro odstřelování rudy.",
+  
+  "item-fishingspear-wood-*": "Rybářské kopí (dřevo)",
+  "item-fishingspear-bamboo-*": "Rybářské kopí (bambus)",
+  "itemdesc-fishingspear-*": "Výpad jako obyčejný oštěp na lov ryb.",
+  "game:handhelp-spearfish": "Oštěp ryby",
+  "game:handhelp-removefish": "Odstraňte rybu",
 
   "primitivesurvival:block-woodlantern-banyan-*": "Dřevěná lucerna (Banyan)",
   "primitivesurvival:block-woodlantern-bluemahoe-*": "Dřevěná lucerna (Blue Mahoe)",
@@ -1290,4 +1280,83 @@
   "primitivesurvival:block-woodlantern-nothofagusmenziesii-*": "Dřevěná lucerna (Totara)",
   "primitivesurvival:block-woodlantern-podocarpustotara-*": "Dřevěná lucerna (Norfolk Island Pine)",
 
+"ingameerror-mb-close-endpoint-invalid": "Uzavřený koncový bod je neplatný. Musí to být blok plné velikosti s blokem plné velikosti nad ním",
+"ingameerror-mb-far-endpoint-invalid": "Vzdálený koncový bod je neplatný. Musí to být blok plné velikosti s blokem plné velikosti nad ním",
+"ingameerror-mb-close-endpoint-neighbor-invalid": "Uzavřený koncový bod je neplatný. Vedle něj je něco, co blokuje umístění",
+"ingameerror-mb-far-endpoint-neighbor-invalid": "Vzdálený koncový bod je neplatný. Vedle něj je něco, co blokuje umístění",
+"ingameerror-mb-bridge-too-far": "Vypadá to, že potřebujete více kusů opičí lávky nebo vzdálenost mezi koncovými body překračuje maximální délku",
+"ingameerror-mb-bridge-cant-place": "V cestě je opičí lávka",
+
+"game:placefailure-support-needed": "Potřebujeme více podpory",
+"game:placefailure-support-ground-unsuitable": "pro umístění této podpory potřebujete vhodnější terén",
+
+  "block-support-*": "Nosník pro potrubí",
+  "blockdesc-support-*": "Položte na zemědělskou půdu k uchycení zavlažovacích trubek",
+
+  "support-iteminfo-wood": "<strong>Wood Support</strong>",
+  "support-iteminfo-bamboo": "<strong>Bamboo Support</strong>",
+
+  "block-pipe-wood-plain": "Dřevěná trubka (Jednoduchá)",
+  "block-pipe-wood-aerated": "Dřevěná trubka (Provzdušněná)",
+  "block-pipe-bamboo-plain": "Trubka z rozštěpeného bambusu (Jednoduchá)",
+  "block-pipe-bamboo-aerated": "Trubka z rozštěpeného bambusu (Provzdušněná)",
+
+  "blockdesc-pipe-*-aerated": "Používá se s nadhlavní závlahou (držáky potrubí) k zavlažování polí",
+  "blockdesc-pipe-*-plain": "Používá se s nadhlavní závlahou (držáky potrubí) k přepravě vody",
+
+  "support-heightoffset": "Posun podpěry",
+  "pipe-heightoffset": "Posun potrubí",
+  "support-pipe-heightoffset-raised": "Zvýšené",
+  "support-pipe-heightoffset-lowered": "Snížené",
+
+  "support-material": "Materiál podpěry",
+  "pipe-material": "Materiál potrubí",
+  "pipe-support-material-wood": "Dřevo",
+  "pipe-support-material-bamboo": "Bambus",
+
+  "pipe-type": "Typ potrubí",
+  "pipe-type-plain": "Hladké",
+  "pipe-type-aerated": "Provzdušněné",
+
+  "support-rightclick-add-pipe": "Klikněte pravým tlačítkem pro přidání potrubí k této podpěře",
+  "pipe-rightclick-add-pipe": "Klikněte pravým tlačítkem na konec potrubí pro přidání dalšího potrubí",
+
+    //1.20 below
+
+  "block-betterfoureightbrickstairs-four-red-*": "Vylepšené schody z velkých červených cihel",
+  "block-betterfoureightbrickstairs-four-brown-*": "Vylepšené schody z velkých hnědých cihel",
+  "block-betterfoureightbrickstairs-four-black-*": "Vylepšené schody z velkých černých cihel",
+  "block-betterfoureightbrickstairs-four-gray-*": "Vylepšené schody z velkých šedých cihel",
+  "block-betterfoureightbrickstairs-four-cream-*": "Vylepšené schody z velkých krémových cihel",
+  "block-betterfoureightbrickstairs-four-orange-*": "Vylepšené schody z velkých oranžových cihel",
+  "block-betterfoureightbrickstairs-four-tan-*": "Vylepšené schody z velkých pískových cihel",
+  "block-betterfoureightbrickstairs-eight-red-*": "Vylepšené schody z červených cihel",
+  "block-betterfoureightbrickstairs-eight-brown-*": "Vylepšené schody z hnědých cihel",
+  "block-betterfoureightbrickstairs-eight-black-*": "Vylepšené schody z černých cihel",
+  "block-betterfoureightbrickstairs-eight-gray-*": "Vylepšené schody z šedých cihel",
+  "block-betterfoureightbrickstairs-eight-cream-*": "Vylepšené schody z krémových cihel",
+  "block-betterfoureightbrickstairs-eight-orange-*": "Vylepšené schody z oranžových cihel",
+  "block-betterfoureightbrickstairs-eight-tan-*": "Vylepšené schody z pískových cihel",
+
+  "block-betterclayshinglestairs-black-*": "Vylepšené šindelové schody – černé",
+  "block-betterclayshinglestairs-cream-*": "Vylepšené šindelové schody – krémové",
+  "block-betterclayshinglestairs-gray-*": "Vylepšené šindelové schody – šedé",
+  "block-betterclayshinglestairs-tan-*": "Vylepšené šindelové schody – pískové",
+  "block-betterclayshinglestairs-orange-*": "Vylepšené šindelové schody – oranžové",
+
+  "block-floatingdock-acacia-*": "Plovoucí molo (akácie)",
+  "block-floatingdock-birch*": "Plovoucí molo (bříza)",
+  "block-floatingdock-kapok*": "Plovoucí molo (vlnovec)",
+  "block-floatingdock-maple*": "Plovoucí molo (javor)",
+  "block-floatingdock-oak*": "Plovoucí molo (dub)",
+  "block-floatingdock-pine*": "Plovoucí molo (borovice)",
+  "block-floatingdock-baldcypress-*": "Plovoucí molo (tisovec)",
+  "block-floatingdock-larch-*": "Plovoucí molo (modřín)",
+  "block-floatingdock-redwood-*": "Plovoucí molo (sekvoj)",
+  "block-floatingdock-ebony-*": "Plovoucí molo (eben)",
+  "block-floatingdock-walnut-*": "Plovoucí molo (ořešák)",
+  "block-floatingdock-purpleheart-*": "Plovoucí molo (peltogyn)",
+  "blockdesc-floatingdock-*": "Umístěte přímo na vodu",
+
+  "game:placefailure-softer-ground-needed": "lze umístit pouze do měkké půdy"
 }
