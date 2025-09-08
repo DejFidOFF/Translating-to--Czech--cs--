@@ -7,6 +7,11 @@
   "effects": "Efekty",
   "healingrate": "Rychlost zotavení",
   "cures": "Léčí",
+  "intensity": "Intenzita",
+  "healinggrowth": "Síla regenerace",
+  "chance": "Šance",
+  "perishweight": "Hmotnostní ztráta",
+  "ingredient": "Ingredience",
 
   "stat-effect": "Status",
   "stat-effectdesc": "Upraví status hráči",
@@ -63,5 +68,6 @@
   "blindness-effect": "Blindness",
   "blindness-effectdesc": "Limits your field of vision.",
   "colorblind-effect": "Colorblind",
-  "colorblind-effectdesc": "You lost the ability to distinguish between different colors.",
+  "colorblind-effectdesc": "You lost the ability to distinguish between different colors."
+
 }
